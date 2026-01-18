@@ -1,0 +1,12 @@
+[
+  { "name": "Elite (neu)", "fileName": "theme_eliteNew.json" },
+  { "name": "Elite (alt)", "fileName": "theme_elite.json" },
+  { "name": "Green", "fileName": "theme_green.json" },
+  { "name": "Orange", "fileName": "theme_orange.json" },
+  { "name": "Red", "fileName": "theme_red.json" },
+  { "name": "Rose", "fileName": "theme_rose.json" },
+  { "name": "Slate", "fileName": "theme_slate.json" },
+  { "name": "Stone", "fileName": "theme_stone.json" },
+  { "name": "Violet", "fileName": "theme_violet.json" },
+  { "name": "Yellow", "fileName": "theme_yellow.json" }
+]

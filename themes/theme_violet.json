@@ -1,0 +1,227 @@
+{
+  "light": {
+    "background": {
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 100
+    },
+    "foreground": {
+      "hue": 224,
+      "saturation": 71,
+      "lightness": 4
+    },
+    "muted": {
+      "hue": 220,
+      "saturation": 14,
+      "lightness": 95
+    },
+    "mutedForeground": {
+      "hue": 220,
+      "saturation": 8,
+      "lightness": 46
+    },
+    "popover": {
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 100
+    },
+    "popoverForeground": {
+      "hue": 224,
+      "saturation": 71,
+      "lightness": 4
+    },
+    "card": {
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 100
+    },
+    "cardForeground": {
+      "hue": 224,
+      "saturation": 71,
+      "lightness": 4
+    },
+    "border": {
+      "hue": 220,
+      "saturation": 13,
+      "lightness": 91
+    },
+    "input": {
+      "hue": 220,
+      "saturation": 13,
+      "lightness": 91
+    },
+    "primary": {
+      "hue": 262,
+      "saturation": 83,
+      "lightness": 57
+    },
+    "primaryForeground": {
+      "hue": 210,
+      "saturation": 20,
+      "lightness": 98
+    },
+    "secondary": {
+      "hue": 220,
+      "saturation": 14,
+      "lightness": 95
+    },
+    "secondaryForeground": {
+      "hue": 220,
+      "saturation": 39,
+      "lightness": 11
+    },
+    "accent": {
+      "hue": 220,
+      "saturation": 14,
+      "lightness": 95
+    },
+    "accentForeground": {
+      "hue": 220,
+      "saturation": 39,
+      "lightness": 11
+    },
+    "destructive": {
+      "hue": 0,
+      "saturation": 84,
+      "lightness": 60
+    },
+    "destructiveForeground": {
+      "hue": 210,
+      "saturation": 20,
+      "lightness": 98
+    },
+    "ring": {
+      "hue": 262,
+      "saturation": 83,
+      "lightness": 57
+    },
+    "warning": {
+      "hue": 51,
+      "saturation": 100,
+      "lightness": 50
+    },
+    "warningForeground": {
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 0
+    },
+    "selection": {
+      "hue": 217,
+      "saturation": 60,
+      "lightness": 51
+    }
+  },
+  "dark": {
+    "background": {
+      "hue": 224,
+      "saturation": 71,
+      "lightness": 4
+    },
+    "foreground": {
+      "hue": 210,
+      "saturation": 20,
+      "lightness": 98
+    },
+    "muted": {
+      "hue": 215,
+      "saturation": 27,
+      "lightness": 16
+    },
+    "mutedForeground": {
+      "hue": 217,
+      "saturation": 10,
+      "lightness": 64
+    },
+    "popover": {
+      "hue": 224,
+      "saturation": 71,
+      "lightness": 4
+    },
+    "popoverForeground": {
+      "hue": 210,
+      "saturation": 20,
+      "lightness": 98
+    },
+    "card": {
+      "hue": 224,
+      "saturation": 71,
+      "lightness": 4
+    },
+    "cardForeground": {
+      "hue": 210,
+      "saturation": 20,
+      "lightness": 98
+    },
+    "border": {
+      "hue": 215,
+      "saturation": 27,
+      "lightness": 16
+    },
+    "input": {
+      "hue": 215,
+      "saturation": 27,
+      "lightness": 16
+    },
+    "primary": {
+      "hue": 263,
+      "saturation": 70,
+      "lightness": 50
+    },
+    "primaryForeground": {
+      "hue": 210,
+      "saturation": 20,
+      "lightness": 98
+    },
+    "secondary": {
+      "hue": 215,
+      "saturation": 27,
+      "lightness": 16
+    },
+    "secondaryForeground": {
+      "hue": 210,
+      "saturation": 20,
+      "lightness": 98
+    },
+    "accent": {
+      "hue": 215,
+      "saturation": 27,
+      "lightness": 16
+    },
+    "accentForeground": {
+      "hue": 210,
+      "saturation": 20,
+      "lightness": 98
+    },
+    "destructive": {
+      "hue": 0,
+      "saturation": 62,
+      "lightness": 30
+    },
+    "destructiveForeground": {
+      "hue": 210,
+      "saturation": 20,
+      "lightness": 98
+    },
+    "ring": {
+      "hue": 263,
+      "saturation": 70,
+      "lightness": 50
+    },
+    "warning": {
+      "hue": 49,
+      "saturation": 100,
+      "lightness": 42.5
+    },
+    "warningForeground": {
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 0
+    },
+    "selection": {
+      "hue": 217,
+      "saturation": 60,
+      "lightness": 51
+    }
+  },
+  "radius": 0.5
+}
